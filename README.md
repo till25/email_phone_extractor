@@ -1,2 +1,2 @@
 # email_phone_extractor
-Extract emails and phone numbers from text
+This Simple Python Scrip extracts Phone Numbers and Emails from text.
